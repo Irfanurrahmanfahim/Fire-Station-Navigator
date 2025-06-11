@@ -19,6 +19,7 @@
 
 > 🚫 **This project currently requires a MongoDB connection to function fully.**
 > As the original MongoDB account has been discontinued, users must **connect a new MongoDB instance** to use the application completely.
+> Missing Mondodb package files. Install the package again.
 
 
 
